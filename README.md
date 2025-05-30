@@ -1,5 +1,7 @@
 # TimeKeeper API
 
+![Build](https://github.com/yannlr37/timekeeper_api/actions/workflows/ci.yml/badge.svg)
+
 [Descriptioin]
 
 ## Usage
